@@ -1,4 +1,6 @@
+```Python
 class JrDeveloper:
+
     def __init__(self):
         self.firstname = "Rowel"
         self.lastname = "Cababan"
@@ -10,3 +12,4 @@ class JrDeveloper:
 if __name__ == '__main__':
     me = JrDeveloper()
     print(me.say_hi())
+```
