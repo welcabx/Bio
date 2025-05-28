@@ -1,9 +1,4 @@
-- 👋 Howdy, I’m Rowel Cababan.
-- 👀 I’m interested in programming and networking.
-- 🌱 I’m currently learning Python because I found it as my main programming language for some reason. 
-- 💞️ I’m looking to shift my career as a developer because I'd love to collaborate and create something that will help business innovation.
-- 📫 You can reach me at www.linkedin.com/in/rowelcababan
-- ⚡ Fun fact: I am a frustrated musician too!
+<pre> \```python # your profile in python style here \``` --- ## 📈 GitHub Stats ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<b>yourusername</b>&show_icons=true&theme=monokai) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<b>yourusername</b>&layout=compact) </pre>
 
 <!---
 welcabx/welcabx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
