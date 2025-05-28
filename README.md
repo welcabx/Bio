@@ -1,5 +1,5 @@
 ```Python
-class JrDeveloper:
+class careerShifter:
 
     def __init__(self):
         self.firstname = "Rowel"
@@ -10,6 +10,6 @@ class JrDeveloper:
 
 
 if __name__ == '__main__':
-    me = JrDeveloper()
+    me = careerShifter()
     print(me.say_hi())
 ```
