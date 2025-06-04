@@ -8,7 +8,8 @@ class careerShifter:
             "Pythoneer", "Home Network Support Expert", "Technophile"
         ]
         
-
+    def headline(self):
+        return 
     def say_hi(self):
         return f"Howdy! I am {self.firstname} and I am still working on this repo. LOL"
 
