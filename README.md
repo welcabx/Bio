@@ -4,6 +4,10 @@ class careerShifter:
     def __init__(self):
         self.firstname = "Rowel"
         self.lastname = "Cababan"
+        self.roles = [
+            "Pythoneer", "Home Network Support Expert", "Technophile"
+        ]
+        
 
     def say_hi(self):
         return f"Howdy! I am {self.firstname} and I am still working on this repo. LOL"
